@@ -41,9 +41,3 @@ The model predicts:
 
 - `1` → Loan Approved
 - `0` → Loan Not Approved
-
-
-
-**Tanish Jain**
-
-Made as a beginner-level Machine Learning internship project.
